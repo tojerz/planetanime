@@ -2,8 +2,8 @@
 <script type='text/javascript'>
 //<![CDATA[
 var SETTINGKlinkz = {
- URLnoSAFE : "facebook.com,twitter.com,planetanime.info,kanna.host",
- TITLElink : "Go To Link",
+ URLnoSAFE : "facebook.com,twitter.com,planetanime.info,woinime.net",
+ TITLElink : "",
  PASSlink : "",
  LINKproperty : "_blank",
  VERIFYlink : "false",
